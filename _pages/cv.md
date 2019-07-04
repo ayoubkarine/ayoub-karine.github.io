@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* [01/09/2017 - 31/08/2019] : Associate Professor
+* [Since 09/2019] : Associate Professor
   * [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
 * [01/09/2017 - 31/08/2019] : ATER (Teaching and Research Assistant)
   * MMI department, [IUT de Mulhouse](http://www.iutmulhouse.uha.fr/), [Haute-Alsace University](https://www.uha.fr/), France
