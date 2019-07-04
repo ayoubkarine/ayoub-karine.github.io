@@ -9,14 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* [2014-2018] PhD in Computer Science
-  * [Bretagne Loire University (France)](https://u-bretagneloire.fr/) & [Mohammed V University (Morocco)](www.um5.ac.ma/)
-  * Supervisor : Ali KHENCHAF, Mohammed EL HASSOUNI & Abdelmalek TOUMI
-* [2012-2014] Master in computer science and telecommunication, [Mohammed V University (Morocco)](www.um5.ac.ma/), [Faculty of science](http://www.fsr.ac.ma/)
-* [2009-2012] Bachelor in mathematics and computer science, [Mohammed V University (Morocco)](www.um5.ac.ma/), [Faculty of science](http://www.fsr.ac.ma/)
-
 Work experience
 ======
 * [Since 09/2019] : Associate Professor
@@ -31,3 +23,13 @@ Work experience
   * Subject : Implémentation de l'algorithme culturel dans la plateforme JMetal
   * Location : [Mohammed V University (Morocco)](www.um5.ac.ma/), [Faculty of science](http://www.fsr.ac.ma/)
   * Supervisor: Youness Bennani
+
+Education
+======
+* [2014-2018] PhD in Computer Science
+  * [Bretagne Loire University (France)](https://u-bretagneloire.fr/) & [Mohammed V University (Morocco)](www.um5.ac.ma/)
+  * Supervisor : Ali KHENCHAF, Mohammed EL HASSOUNI & Abdelmalek TOUMI
+* [2012-2014] Master in computer science and telecommunication, [Mohammed V University (Morocco)](www.um5.ac.ma/), [Faculty of science](http://www.fsr.ac.ma/)
+* [2009-2012] Bachelor in mathematics and computer science, [Mohammed V University (Morocco)](www.um5.ac.ma/), [Faculty of science](http://www.fsr.ac.ma/)
+
+
