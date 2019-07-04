@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am ....
+I'm an associate professor on computer science at [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/). Generally, I work on machine learning and pattern recognition.
 
 News
 ======
