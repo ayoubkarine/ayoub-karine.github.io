@@ -12,6 +12,7 @@ I am ....
 
 News
 ======
-* [01 September 2019] New position : Associate Professor at [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
+* [01 September 2019] New position : Associate Professor at [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/) [I'm an inline-style link](https://www.google.com)
+
 * [03 December 2018] I successfully defended my PhD thesis !
 
