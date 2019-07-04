@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Teaching"
+excerpt: "Teaching"
+author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
+---
+
 * [2014-2017] 384h
  * MMI department, [IUT de Mulhouse](http://www.iutmulhouse.uha.fr/), [Haute-Alsace University](https://www.uha.fr/), France
  * Web (HTML, CSS, PHP, Javascript, Angular, ...) & Mathematics & XML & Algorithmic
