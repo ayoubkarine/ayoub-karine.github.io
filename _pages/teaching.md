@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Teaching"
-excerpt: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
 ---
 
 * [2014-2017] 384h
