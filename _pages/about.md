@@ -12,5 +12,6 @@ I am ....
 
 News
 ======
-* [June 2019] Rodrigo Caye Daudt got the Best Student Paper Award at CVPR/Earth Vision 2019. Congrats!
-* [lll] lll
+* [01 September 2019] Associate Professor at Yncréa Ouest/ISEN
+* [03 December 2018] I successfully defended my PhD thesis !
+
