@@ -15,3 +15,21 @@ Research Interest
 
 Publications
 ======
+
+Thesis
+------
+* Ayoub Karine, "Traitement et classification parcimonieuse des images radar pour l'aide à la reconnaissance de cibles" 
+PhD Thesis, Bretagne Loire University (France) & Mohammed V University (Morocco), 03 December 2018 
+[Manuscript,Slides] 
+* Ayoub Karine, "Classification et segmentation d’images texturées : Application à la caractérisation des fonds marins" 
+Master Thesis, ENSTA Bretagne, Brest, France, 18 September 2014
+[Manuscript,Slides]
+
+International Journals
+------
+
+International Conferences
+------
+
+National Conferences
+------
