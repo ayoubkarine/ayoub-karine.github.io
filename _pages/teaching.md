@@ -4,7 +4,7 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-Courses
+Teaching
 ======
 * [Since Sept 2019]
   * [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
