@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Title
 
 ### Place 1
 
@@ -16,7 +15,7 @@ Hello, this is some text to fill in this, [here](#place-2), is a link to the sec
 Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
 
-[Research Interest](#Research Interest) [Publications](Publications)
+[Research Interest](#research-interest) [Publications](#publications)
 
 ### Research Interest
 ======
