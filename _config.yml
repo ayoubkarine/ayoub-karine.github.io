@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ayoub Karine"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &Ayoub Karine "Ayoub Karine"
 description              : &description "personal description"
 url                      : https://ayoubkarine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ayoub KARINE"
-  avatar           : "ayoub5.jpg"
+  avatar           : "ayoub6.jpg"
   bio              : "Associate Professor at Yncréa Ouest/ISEN Nantes, France"
   location         : "Nantes"
   employer         : 
