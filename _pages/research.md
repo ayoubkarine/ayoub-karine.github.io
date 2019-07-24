@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-[# Research Interest](#research-interest) | [# Publications](#publications)
+[## Research Interest](#research-interest) | [# Publications](#publications)
 
 ## Research Interest
 * Image processing  
