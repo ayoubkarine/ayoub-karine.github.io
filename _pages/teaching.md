@@ -16,10 +16,6 @@ Courses
   * [Faculty of science](http://www.fsr.ac.ma/), [Mohammed V University (Morocco)](www.um5.ac.ma/)
   * Operating Systems & Information System & Security Network
 
-Supervision
-======
-* Different internship project about computer network, multimedia and web programming
-
 Other activities 
 ======
 * Presentation of MMI department in JC (Journée des carrières) and JPO (Journée des portes ouvertes)
