@@ -8,7 +8,6 @@ author_profile: true
 [# Research Interest](#research-interest) | [# Publications](#publications)
 
 ## Research Interest
-======
 * Image processing  
 * Pattern recognition
 * Machine learning 
@@ -16,10 +15,8 @@ author_profile: true
 * Remote sensing
 
 ## Publications
-======
 
-#### Thesis
-------
+### Thesis
 1. **Ayoub Karine**, "**Traitement et classification parcimonieuse des images radar pour l'aide à la reconnaissance de cibles**" 
 PhD Thesis, Bretagne Loire University (France) & Mohammed V University (Morocco), 03 December 2018  
 [Manuscript,Slides] 
@@ -28,8 +25,7 @@ Master Thesis, ENSTA Bretagne, Brest, France, 18 September 2014
 [Manuscript,Slides]
 ------
 
-#### International Journals
-------
+### International Journals
 1. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Copula Joint Statistical Model and Weighted Sparse Representation based Classification for Radar Target Recognition**", Submitted to ELSEVIER Computers & Electrical Engineering 
 
 2. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Radar Target Recognition via Salient Keypoint Descriptors and Multitask Sparse Representation**", MDPI Remote sensing (IF=3.244), vol. 10, 843, May 2018.  
@@ -40,10 +36,8 @@ Master Thesis, ENSTA Bretagne, Brest, France, 18 September 2014
 
 4. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Target Recognition in Radar Images using Weighted Statistical Dictionary-Based Sparse Representation**", IEEE Geoscience and Remote Sensing Letters (IF=2.761), vol. 14, no. 12, 2403-2407, December 2017  
 [BibTex / URL / PDF]  
-------
 
-#### International Conferences
-------
+### International Conferences
 **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Aircraft Target Recognition using Copula Joint Statistical Model and Sparse Representation Based Classification**", IEEE Geoscience and Remote Sensing Symposium (IGARSS’2018), Valencia-Spain, 23-27 July 2018
 [BibTex / URL / PDF]  
 
@@ -66,10 +60,8 @@ First ACM International Conference on Big Data and Advanced Wireless technologie
 
  **A. Karine**, N-E. Lasmar, A. Baussard, M. El Hassouni, "**Sonar image segmentation based on statistical modeling of wavelet subbands**", 12th IEEE International Conference on Computer Systems and Applications (AICCSA), Marrakech,-Maroc, 17-20 November 2015
 [BibTex / URL / PDF]  
-------
 
-#### National Conferences
-------
+### National Conferences
 **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Classification parcimonieuse pour l'aide à la reconnaissance de cibles radar**", 
 17 ème édition de la conférence Extraction et Gestion de Connaissance (EGC), Grenoble-France, 23-27 Janvier 2017. 
 [BibTex / URL / PDF]  
