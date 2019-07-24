@@ -26,6 +26,7 @@ PhD Thesis, Bretagne Loire University (France) & Mohammed V University (Morocco)
 2. **Ayoub Karine**, "**Classification et segmentation d’images texturées : Application à la caractérisation des fonds marins**" 
 Master Thesis, ENSTA Bretagne, Brest, France, 18 September 2014  
 [Manuscript,Slides]
+------
 
 #### International Journals
 ------
@@ -39,6 +40,7 @@ Master Thesis, ENSTA Bretagne, Brest, France, 18 September 2014
 
 4. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Target Recognition in Radar Images using Weighted Statistical Dictionary-Based Sparse Representation**", IEEE Geoscience and Remote Sensing Letters (IF=2.761), vol. 14, no. 12, 2403-2407, December 2017  
 [BibTex / URL / PDF]  
+------
 
 #### International Conferences
 ------
@@ -64,7 +66,7 @@ First ACM International Conference on Big Data and Advanced Wireless technologie
 
  **A. Karine**, N-E. Lasmar, A. Baussard, M. El Hassouni, "**Sonar image segmentation based on statistical modeling of wavelet subbands**", 12th IEEE International Conference on Computer Systems and Applications (AICCSA), Marrakech,-Maroc, 17-20 November 2015
 [BibTex / URL / PDF]  
-
+------
 
 #### National Conferences
 ------
