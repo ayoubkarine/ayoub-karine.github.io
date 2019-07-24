@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## [Research Interest](#research-interest) &nbsp; &nbsp; [Publications](#publications) &nbsp; &nbsp; [Projects](#projects) &nbsp; &nbsp; [Students](#Students)
-</hr>
+---
 
 ## Research Interest
 * Image processing  
@@ -14,6 +14,7 @@ author_profile: true
 * Machine learning 
 * Deep learning
 * Remote sensing
+---
 
 ## Publications
 
