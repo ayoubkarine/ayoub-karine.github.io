@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-[## Research Interest](#research-interest) | [# Publications](#publications)
+[## Research Interest](#research-interest)  [# Publications](#publications)
 
 ## Research Interest
 * Image processing  
@@ -38,36 +38,36 @@ Master Thesis, ENSTA Bretagne, Brest, France, 18 September 2014
 [BibTex / URL / PDF]  
 
 ### International Conferences
-**A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Aircraft Target Recognition using Copula Joint Statistical Model and Sparse Representation Based Classification**", IEEE Geoscience and Remote Sensing Symposium (IGARSS’2018), Valencia-Spain, 23-27 July 2018
+1. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Aircraft Target Recognition using Copula Joint Statistical Model and Sparse Representation Based Classification**", IEEE Geoscience and Remote Sensing Symposium (IGARSS’2018), Valencia-Spain, 23-27 July 2018
 [BibTex / URL / PDF]  
 
-**A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Target Recognition in ISAR Images based on Relative Phases of Complex Wavelet Coefficients and Sparse Classification**", 4th IEEE International Conference on Advanced Technologies for Signal and Image Processing (ATSIP’2018), Sousse-Tunisia, 21-24 March 2018
+2. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Target Recognition in ISAR Images based on Relative Phases of Complex Wavelet Coefficients and Sparse Classification**", 4th IEEE International Conference on Advanced Technologies for Signal and Image Processing (ATSIP’2018), Sousse-Tunisia, 21-24 March 2018
 [BibTex / URL / PDF]  
 
-**A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Saliency Attention and SIFT Keypoints Combination for Automatic Target Recognition on MSTAR dataset**", 3th IEEE International Conference on Advanced Technologies for Signal and Image Processing (ATSIP’2017), Fez-Maroc, 22-24 May 2017
+3. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Saliency Attention and SIFT Keypoints Combination for Automatic Target Recognition on MSTAR dataset**", 3th IEEE International Conference on Advanced Technologies for Signal and Image Processing (ATSIP’2017), Fez-Maroc, 22-24 May 2017
 [BibTex / URL / PDF]  
 
-**A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**A non-Gaussian statistical modeling of SIFT and DT-CWT for radar target recognition**", 13th IEEE International Conference on Computer Systems and Applications (AICCSA), Agadir-Maroc, 29 November - 02 December 2016 
+4. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**A non-Gaussian statistical modeling of SIFT and DT-CWT for radar target recognition**", 13th IEEE International Conference on Computer Systems and Applications (AICCSA), Agadir-Maroc, 29 November - 02 December 2016 
 [BibTex / URL / PDF]  
 
-**A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Aircraft recognition using a statistical model and sparse representation 
+5. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Aircraft recognition using a statistical model and sparse representation 
 First ACM International Conference on Big Data and Advanced Wireless technologies (BDAW)**", Bulgarie, 10-11 November 2016
 [BibTex / URL / PDF]  
 
-**A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Visual salient SIFT keypoints descriptors for automatic target recognition**", 
+6. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Visual salient SIFT keypoints descriptors for automatic target recognition**", 
 6th IEEE European Workshop on Visual Information Processing (EUVIP), Marseille-France, 25-27 October 2016. 
 [BibTex / URL / PDF]  
 
- **A. Karine**, N-E. Lasmar, A. Baussard, M. El Hassouni, "**Sonar image segmentation based on statistical modeling of wavelet subbands**", 12th IEEE International Conference on Computer Systems and Applications (AICCSA), Marrakech,-Maroc, 17-20 November 2015
+7. **A. Karine**, N-E. Lasmar, A. Baussard, M. El Hassouni, "**Sonar image segmentation based on statistical modeling of wavelet subbands**", 12th IEEE International Conference on Computer Systems and Applications (AICCSA), Marrakech,-Maroc, 17-20 November 2015
 [BibTex / URL / PDF]  
 
 ### National Conferences
-**A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Classification parcimonieuse pour l'aide à la reconnaissance de cibles radar**", 
+1. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Classification parcimonieuse pour l'aide à la reconnaissance de cibles radar**", 
 17 ème édition de la conférence Extraction et Gestion de Connaissance (EGC), Grenoble-France, 23-27 Janvier 2017. 
 [BibTex / URL / PDF]  
 
-**A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Filtrage attentionnel des points caractéristiques SIFT pour la reconnaissance de cibles radar**", 1 ère édition des journées SIGnal, image, Multimédia et Applications (SIGMA), Fès-Maroc, 21-22 Décembre 2016.
+2. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Filtrage attentionnel des points caractéristiques SIFT pour la reconnaissance de cibles radar**", 1 ère édition des journées SIGnal, image, Multimédia et Applications (SIGMA), Fès-Maroc, 21-22 Décembre 2016.
 [PDF]  
 
-**A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Modélisation et réalisation d’un système de détection de cibles radar**, Journée URAC-Maroc, Rabat, 28 Novembre 2015
+3. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Modélisation et réalisation d’un système de détection de cibles radar**, Journée URAC-Maroc, Rabat, 28 Novembre 2015
 [PDF]
