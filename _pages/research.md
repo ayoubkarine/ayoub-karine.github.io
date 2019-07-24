@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## [Research Interest](#research-interest) &nbsp; &nbsp; [Publications](#publications) &nbsp; &nbsp; [Projects](#projects) &nbsp; &nbsp; [Students](#Students)
+
 ---
 
 ## Research Interest
@@ -14,6 +15,7 @@ author_profile: true
 * Machine learning 
 * Deep learning
 * Remote sensing
+
 ---
 
 ## Publications
@@ -74,7 +76,11 @@ First ACM International Conference on Big Data and Advanced Wireless technologie
 3. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Modélisation et réalisation d’un système de détection de cibles radar**, Journée URAC-Maroc, Rabat, 28 Novembre 2015
 [PDF]
 
+---
+
 ## Projects
+
+---
 
 ## Students
 ### Master Students
