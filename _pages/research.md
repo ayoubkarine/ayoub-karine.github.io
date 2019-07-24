@@ -8,7 +8,6 @@ author_profile: true
 ## [Research Interest](#research-interest) &nbsp; &nbsp; [Publications](#publications) &nbsp; &nbsp; [Projects](#projects) &nbsp; &nbsp; [Students](#Students)
 
 ---
-
 ## Research Interest
 * Image processing  
 * Pattern recognition
@@ -17,7 +16,6 @@ author_profile: true
 * Remote sensing
 
 ---
-
 ## Publications
 
 ### Thesis
@@ -27,7 +25,6 @@ PhD Thesis, Bretagne Loire University (France) & Mohammed V University (Morocco)
 2. **Ayoub Karine**, "**Classification et segmentation d’images texturées : Application à la caractérisation des fonds marins**" 
 Master Thesis, ENSTA Bretagne, Brest, France, 18 September 2014  
 [Manuscript,Slides]
-------
 
 ### International Journals
 1. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Copula Joint Statistical Model and Weighted Sparse Representation based Classification for Radar Target Recognition**", Submitted to ELSEVIER Computers & Electrical Engineering 
@@ -77,11 +74,9 @@ First ACM International Conference on Big Data and Advanced Wireless technologie
 [PDF]
 
 ---
-
 ## Projects
 
 ---
-
 ## Students
 ### Master Students
 |      Name      | Date |                                          Subject                                         |
