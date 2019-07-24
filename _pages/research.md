@@ -82,3 +82,4 @@ First ACM International Conference on Big Data and Advanced Wireless technologie
 |      Name      | Date |                                          Subject                                         |
 |:--------------:|:----:|:----------------------------------------------------------------------------------------:|
 | Yassine Khaldi | 2018 | Segmentation of hyperspectral images using a representation-based classification methods |
+|                |      |                                                                                          |
