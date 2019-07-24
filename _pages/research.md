@@ -19,10 +19,8 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 
 Research Interest
 ======
-* Image processing
-* Pattern recognition
-* Machine learning
-* Deep learning
+* Image processing  * Pattern recognition
+* Machine learning * Deep learning
 * Remote sensing
 
 Publications
