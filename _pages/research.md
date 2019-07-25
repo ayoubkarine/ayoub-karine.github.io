@@ -74,7 +74,9 @@ First ACM International Conference on Big Data and Advanced Wireless technologie
 
 ---
 ## Projects
-
+| Name | Type | Date |
+|------|------|------|
+|      |      |      |
 ---
 ## Students
 ### Master Students
