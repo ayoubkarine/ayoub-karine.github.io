@@ -85,7 +85,6 @@ author:
   bio              : "Associate Professor at Yncréa Ouest/ISEN Nantes, France"
   location         : "Nantes"
   employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?user=acAw9KAAAAAJ&hl=fr"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Ayoub_Karine?ev=hdr_xprf&_sg=eJkSR2ljqVo6Ub414o2YwqTDXE2e1tV5SPoWZQv35B3oJoSgYfbNmLlZt57lBUJCiaEapS_Iz82ix5Z6XveLFdaC"
@@ -102,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ayoub-karine-a01ba384/"
   orcid            : "https://orcid.org/0000-0002-9304-4613"
   pinterest        :
   soundcloud       :
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  publons          : "https://publons.com/author/1627569/ayoub-karine#profile" 
 
 
 # Reading Files
