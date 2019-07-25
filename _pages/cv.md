@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 Professionnal experience
 ======
 * [Since 09/2019]: Associate Professor
