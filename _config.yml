@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ayoub Karine"
 title_separator          : "-"
-name                     : &Ayoub Karine "Ayoub Karine"
+name                     : &name "Ayoub Karine"
 description              : &description "personal description"
 url                      : https://ayoubkarine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
