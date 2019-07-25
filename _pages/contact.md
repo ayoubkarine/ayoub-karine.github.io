@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Address 
+======
 YNCRA OUEST/ISEN Nantes 
 35 Avenue du Champ de Manœuvre,  
 44470 Carquefou
@@ -16,5 +17,7 @@ YNCRA OUEST/ISEN Nantes
 
 [logo]: https://github.com/ayoubkarine/ayoubkarine.github.io/blob/master/_pages/logo-iSEN-Nantes-ingenieur-400.jpg "ISEN"
 
-Contact
-email: ayoub.karine@isen-ouest.yncrea.fr  
+Email
+======
+ayoub.karine@isen-ouest.yncrea.fr  
+ayoub.karine@gmail.com
