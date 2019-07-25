@@ -13,7 +13,7 @@ YNCRA OUEST/ISEN Nantes
 35 Avenue du Champ de Manœuvre,  
 44470 Carquefou
 
-![ISEN](isen.jpg)
+![ISEN](logo-iSEN-Nantes-ingenieur-400.jpg)
 
 Email
 ======
