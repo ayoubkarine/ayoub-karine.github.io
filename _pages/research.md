@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## [Research Interest](#research-interest) &nbsp; &nbsp; [Publications](#publications) &nbsp; &nbsp; [Services to the community
-](#services-to-the-community) &nbsp; &nbsp; [Projects](#projects) &nbsp; &nbsp; [Students](#students) 
+## [Research Interest](#research-interest) &nbsp; &nbsp; [Publications](#publications) &nbsp; &nbsp; [Services to the community](#services-to-the-community) &nbsp; &nbsp; [Projects](#projects) &nbsp; &nbsp; [Students](#students) 
 
 ---
 ## Research Interest
