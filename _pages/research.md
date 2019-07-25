@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-## [Research Interest](#research-interest) &nbsp; &nbsp; [Publications](#publications) &nbsp; &nbsp; [Projects](#projects) &nbsp; &nbsp; [Students](#students)
+## [Research Interest](#research-interest) &nbsp; &nbsp; [Publications](#publications) &nbsp; &nbsp; [Services to the community
+](#services-to-the-community) &nbsp; &nbsp; [Projects](#projects) &nbsp; &nbsp; [Students](#students) 
 
 ---
 ## Research Interest
@@ -72,6 +73,16 @@ First ACM International Conference on Big Data and Advanced Wireless technologie
 
 3. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Modélisation et réalisation d’un système de détection de cibles radar**, Journée URAC-Maroc, Rabat, 28 Novembre 2015
 [PDF]
+
+## Services to the community
+### Reviewer
+* **Journals:** IEEE Transactions on Geoscience and Remote Sensing, IEEE Geoscience and Remote Sensing Letters, MDPI Remote Sensing
+Taylor and Francis European Journal of Remote Sensing, ELSEVIER Computers and Electrical Engineering
+* **Conferences:** DSSGA/MEDI 2019, IndabaX 2019, ORASIS 2019, ISIVC 2018, ATSIP 2017, AICCSA 2017, IPTA 2017, AICCSA 2016, SETIT 2016
+### Program Committee Member
+DSSGA/MEDI 2019, IndabaX 2019, ORASIS 2019
+### Organising Committee Member
+ORASIS 2019, ATSIP 2017, SIGMA 2016, IWAISE 2016, URAC 2015
 
 ## Projects
 
