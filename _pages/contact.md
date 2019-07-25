@@ -20,4 +20,3 @@ YNCRA OUEST/ISEN Nantes
 Email
 ======
 ayoub.karine@isen-ouest.yncrea.fr  
-ayoub.karine@gmail.com
