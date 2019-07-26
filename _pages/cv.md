@@ -10,7 +10,7 @@ redirect_from:
 Professionnal experience
 ======
 * [Since 09/2019]: Associate Professor
-  * [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
+  * [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/) pp
 * [01/09/2017 - 31/08/2019]: ATER (Teaching and Research Assistant)
   * MMI department, [IUT de Mulhouse](http://www.iutmulhouse.uha.fr/), [Haute-Alsace University](https://www.uha.fr/), France
 * [13/03/2014 - 24/07/2014] : Master Internship
@@ -24,6 +24,8 @@ Professionnal experience
 
 Education
 ======
+* ll
+  * ll
 * [2014-2018] PhD in Computer Science
   * [Bretagne Loire University (France)](https://u-bretagneloire.fr/) & [Mohammed V University (Morocco)](www.um5.ac.ma/)
   * Supervisors : [Ali KHENCHAF](https://scholar.google.fr/citations?user=T9VgRasAAAAJ&hl=fr), [Mohammed EL Hassouni](https://scholar.google.com/citations?user=aIwj9L0AAAAJ&hl=fr) & [Abdelmalek TOUMI](https://scholar.google.fr/citations?user=mez2Ro4AAAAJ&hl=fr)
