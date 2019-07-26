@@ -23,8 +23,6 @@ Professionnal experience
 
 Education
 ======
-* ll
-  * ll
 * [2014-2018] PhD in Computer Science
   * [Bretagne Loire University (France)](https://u-bretagneloire.fr/) & [Mohammed V University (Morocco)](www.um5.ac.ma/)
   * Supervisors : [Ali KHENCHAF](https://scholar.google.fr/citations?user=T9VgRasAAAAJ&hl=fr), [Mohammed EL Hassouni](https://scholar.google.com/citations?user=aIwj9L0AAAAJ&hl=fr) & [Abdelmalek TOUMI](https://scholar.google.fr/citations?user=mez2Ro4AAAAJ&hl=fr)
