@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[01/09/2017 - 31/08/2019]: ATER (Teaching and Research Assistant)
-[Since 09/2019]: Associate Professor
 Professionnal experience
 ======
 * [Since 09/2019] : Associate Professer
