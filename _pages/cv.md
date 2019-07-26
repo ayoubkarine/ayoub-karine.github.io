@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 Professionnal experience
 ======
 * [Since 09/2019] : Associate Professer
