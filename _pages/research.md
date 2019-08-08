@@ -82,7 +82,7 @@ Taylor and Francis European Journal of Remote Sensing, ELSEVIER Computers and El
 ### Program Committee Member
 WINCOM 2019, DSSGA/MEDI 2019, IndabaX 2019, ORASIS 2019
 
-### Organising Committee Member
+### Organizing Committee Member
 ORASIS 2019, ATSIP 2017, SIGMA 2016, IWAISE 2016, URAC 2015
 
 ## Projects
