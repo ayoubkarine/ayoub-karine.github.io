@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/ayoub-karine-a01ba384/"
+  linkedin         : "ayoub-karine-a01ba384"
   orcid            : "https://orcid.org/0000-0002-9304-4613"
   pinterest        :
   soundcloud       :
@@ -115,6 +115,7 @@ author:
   youtube          :
   wikipedia        :
   publons          : "https://publons.com/author/1627569/ayoub-karine#profile" 
+  dblp             : https://dblp.uni-trier.de/search?q=ayoub+karine
 
 
 # Reading Files
