@@ -73,7 +73,7 @@ First ACM International Conference on Big Data and Advanced Wireless technologie
 3. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Modélisation et réalisation d’un système de détection de cibles radar**, Journée URAC-Maroc, Rabat, 28 Novembre 2015
 [PDF]
 
-## Services to the community
+## Services 
 ### Reviewer
 * **Journals:** IEEE Transactions on Geoscience and Remote Sensing, IEEE Geoscience and Remote Sensing Letters, MDPI Remote Sensing
 Taylor and Francis European Journal of Remote Sensing, ELSEVIER Computers and Electrical Engineering
