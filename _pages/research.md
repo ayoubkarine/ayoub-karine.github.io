@@ -96,4 +96,4 @@ ORASIS 2019, ATSIP 2017, SIGMA 2016, IWAISE 2016, URAC 2015
 
 | Name           | Date | Subject |
 |----------------|------|---------|
-| Yassine Khaldi | 2018 | Segmentation of hyperspectral images using a representation-based classification methods   |
+| Yassine Khaldi | 2018 | Segmentation of hyperspectral images using representation-based classification methods   |
