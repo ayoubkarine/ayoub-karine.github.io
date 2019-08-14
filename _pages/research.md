@@ -75,7 +75,7 @@ First ACM International Conference on Big Data and Advanced Wireless technologie
 
 ## Services 
 ### Reviewer
-* **Journals:** IEEE Transactions on Geoscience and Remote Sensing, IEEE Geoscience and Remote Sensing Letters, MDPI Remote Sensing, 
+* **Journals:** IEEE Access, IEEE Transactions on Geoscience and Remote Sensing, IEEE Geoscience and Remote Sensing Letters, MDPI Remote Sensing, 
 Taylor and Francis European Journal of Remote Sensing, ELSEVIER Computers and Electrical Engineering
 * **Conferences:** WINCOM 2019, DSSGA/MEDI 2019, IndabaX 2019, ORASIS 2019, ISIVC 2018, ATSIP 2017, AICCSA 2017, IPTA 2017, AICCSA 2016, SETIT 2016
 
