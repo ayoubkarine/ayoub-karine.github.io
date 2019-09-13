@@ -87,7 +87,7 @@ ORASIS 2019, ATSIP 2017, SIGMA 2016, IWAISE 2016, URAC 2015
 
 | Name | Type | Date | Involvment
 |------|------|------| ------|
-| [TIMES](#http://anr-times.unistra.fr/) | ANR | 2017-2020 | Member |
+| [TIMES](http://anr-times.unistra.fr/) | ANR | 2017-2020 | Member |
 
 ## Students
 ### Master Students
