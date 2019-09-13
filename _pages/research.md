@@ -85,13 +85,13 @@ ORASIS 2019, ATSIP 2017, SIGMA 2016, IWAISE 2016, URAC 2015
 
 ## Projects
 
-| Name | Type | Date |
-|------|------|------|
-|      |      |      |
+| Name | Type | Date | Involvment
+|------|------|------| ------|
+| TIMES | ANR | 2017-2020 | Member |
 
 ## Students
 ### Master Students
 
-| Name           | Date | Subject |
-|----------------|------|---------|
-| Yassine Khaldi | 2018 | Segmentation of hyperspectral images using representation-based classification methods   |
+| Firstname & Lastname | Started | Duration | Degree | Subject |
+|----------------|------|---------|---------|---------|
+| Yassine Khaldi | March 2018 | 6 months | Master |Segmentation of hyperspectral images using representation-based classification methods |
