@@ -94,4 +94,4 @@ ORASIS 2019, ATSIP 2017, SIGMA 2016, IWAISE 2016, URAC 2015
 
 | Firstname & Lastname | Started | Duration | Degree | Subject |
 |----------------|------|---------|---------|---------|
-| Yassine Khaldi | March 2018 | 6 months | Master |Segmentation of hyperspectral images using representation-based classification methods |
+| Yassine Khaldi | 03/2018 | 6 months | Master |Segmentation of hyperspectral images using representation-based classification methods |
