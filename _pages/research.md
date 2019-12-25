@@ -90,8 +90,15 @@ ORASIS 2019, ATSIP 2017, SIGMA 2016, IWAISE 2016, URAC 2015
 | [TIMES](http://anr-times.unistra.fr/) | ANR | 2017-2020 | Member |
 
 ## Students
+
+### Phd Students
+
+| Firstname & Lastname | Started | Duration | Subject |
+|----------------|------|---------|---------|
+| Simohamed Hdafa | 12/2019 | 3 years | Image captionning using deep learning |
+
 ### Master Students
 
-| Firstname & Lastname | Started | Duration | Degree | Subject |
-|----------------|------|---------|---------|---------|
-| Yassine Khaldi | 03/2018 | 6 months | Master |Segmentation of hyperspectral images using representation-based classification methods |
+| Firstname & Lastname | Started | Duration | Subject |
+|----------------|------|---------|---------|
+| Yassine Khaldi | 03/2018 | 6 months |Segmentation of hyperspectral images using representation-based classification methods |
