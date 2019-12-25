@@ -85,8 +85,9 @@ ORASIS 2019, ATSIP 2017, SIGMA 2016, IWAISE 2016, URAC 2015
 
 ## Projects
 
-| Name | Type | Date | Involvment
+| Name | Type | Duration | Involvment
 |------|------|------| ------|
+| AFB_SEAS | Industrial | 01/09/2019 - 31/08/2020 | Member |
 | [TIMES](http://anr-times.unistra.fr/) | ANR | 2017-2020 | Member |
 
 ## Students
