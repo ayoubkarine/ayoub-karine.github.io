@@ -12,6 +12,7 @@ I received the master’s degree in computer science and telecommunications in 2
 
 News
 ======
-* [Since September 2019] New position : Associate Professor at [Yncréa Ouest/ISEN Nantes, France](https://isen-nantes.fr/) 
-* [03 December 2018] I successfully defended my PhD thesis !
+* [**December 2019**] Simohamed Hdafa starts a PhD thesis, working on image captionning using deep learning. He is co-supervised with Maher Jridi (ISEN-YNCREA Ouest) and Mohammed EL Hassouni (Mohammed V University, Morocco).
+* [**September 2019**]  New position : Associate Professor at [Yncréa Ouest/ISEN Nantes, France](https://isen-nantes.fr/) 
+* [**03 December 2018**] I successfully defended my PhD thesis !
 
