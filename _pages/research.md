@@ -26,7 +26,7 @@ Master Thesis, ENSTA Bretagne, Brest, France, 18 September 2014
 [Manuscript,Slides]
 
 ### International Journals
-1. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Copula Joint Statistical Model and Weighted Sparse Representation based Classification for Radar Target Recognition**", Submitted to ELSEVIER Computers & Electrical Engineering 
+1. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Copula Joint Statistical Model and Weighted Sparse Representation based Classification for Radar Target Recognition**", ELSEVIER Computers & Electrical Engineering 
 
 2. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Radar Target Recognition via Salient Keypoint Descriptors and Multitask Sparse Representation**", MDPI Remote sensing (IF=3.244), vol. 10, 843, May 2018.  
 [BibTex / URL / PDF]  
