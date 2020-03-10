@@ -12,6 +12,7 @@ I received the master’s degree in computer science and telecommunications in 2
 
 News
 ======
+* [**March 2020**] Our journal paper entitled "Multivariate Copula Statistical Model and Weighted Sparse Classification for Radar Image Target Recognition" has been accepted on Elsevier Computers & Electrical Engineering
 * [**December 2019**] Simohamed Hdafa starts a PhD thesis, working on image captionning using deep learning. He is co-supervised with Maher Jridi (Yncréa Ouest/ISEN Nantes, France) and Mohammed EL Hassouni (Mohammed V University, Morocco).
 * [**September 2019**]  New position : Associate Professor at [Yncréa Ouest/ISEN Nantes, France](https://isen-nantes.fr/) 
 * [**03 December 2018**] I successfully defended my PhD thesis !
