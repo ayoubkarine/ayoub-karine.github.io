@@ -103,4 +103,5 @@ ORASIS 2019, ATSIP 2017, SIGMA 2016, IWAISE 2016, URAC 2015
 
 | Firstname & Lastname | Started | Duration | Subject |
 |----------------|------|---------|---------|
-| Yassine Khaldi | 03/2018 | 6 months |Segmentation of hyperspectral images using representation-based classification methods |
+| Salima Bourbia | 03/2020 | 6 months | Quality assessment of stereoscopic images using deep learning |
+| Yassine Khaldi | 03/2018 | 6 months | Segmentation of hyperspectral images using representation-based classification methods |
