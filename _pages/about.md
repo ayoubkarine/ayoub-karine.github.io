@@ -12,7 +12,7 @@ I received the master’s degree in computer science and telecommunications in 2
 
 News
 ======
-* [**May 2020**] [Phd position on 3D point cloud segmentation](https://yncrea-my.sharepoint.com/:b:/g/personal/ayoub_karine_yncrea_fr/EfhBI-IHiRtHi4tPesb4JRMB19ct8pZ1OWeBVJ1oHw5-5g?e=F0M7Uw) 
+* [**May 2020**] [Phd position on 3D point cloud segmentation](../files/SujetCotutelle_ISENYncreaOuest.pdf) 
 * [**March 2020**] Our journal paper entitled "Multivariate Copula Statistical Model and Weighted Sparse Classification for Radar Image Target Recognition" has been accepted on Elsevier Computers & Electrical Engineering
 * [**December 2019**] Simohamed Hdafa starts a PhD thesis, working on image captionning using deep learning. He is co-supervised with Maher Jridi (Yncréa Ouest/ISEN Nantes, France) and Mohammed EL Hassouni (Mohammed V University, Morocco).
 * [**September 2019**]  New position : Associate Professor at [Yncréa Ouest/ISEN Nantes, France](https://isen-nantes.fr/) 
