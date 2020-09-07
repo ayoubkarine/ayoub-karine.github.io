@@ -9,7 +9,7 @@ redirect_from:
 
 Address 
 ======
-YNCRA OUEST/ISEN Nantes  
+ISEN Yncréa Ouest  
 35 Avenue du Champ de Manœuvre,  
 44470 Carquefou
 
@@ -17,4 +17,4 @@ YNCRA OUEST/ISEN Nantes
 
 Email
 ======
-ayoub.karine@isen-ouest.yncrea.fr  
+ayoub.karine[at]isen-ouest.yncrea.fr  
