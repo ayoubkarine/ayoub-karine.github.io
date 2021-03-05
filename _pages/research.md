@@ -8,8 +8,7 @@ author_profile: true
 
 ---
 ## Research Interest
-* Image processing  
-* Pattern recognition
+* Computer Vision 
 * Machine learning 
 * Deep learning
 * Remote sensing
@@ -39,27 +38,30 @@ Master Thesis, ENSTA Bretagne, Brest, France, 18 September 2014
 [BibTex / URL / PDF]  
 
 ### International Conferences
-1. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Aircraft Target Recognition using Copula Joint Statistical Model and Sparse Representation Based Classification**", IEEE Geoscience and Remote Sensing Symposium (IGARSS’2018), Valencia-Spain, 23-27 July 2018
+1. A. Karine, T. Napoléon, J. -Y. Mulot and Y. Auffret, "Video Seals Recognition using Transfer Learning of Convolutional Neural Network," 2020 Tenth International Conference on Image Processing Theory, Tools and Applications (IPTA), Paris, France, 2020
+[BibTex / URL / PDF]
+
+2. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Aircraft Target Recognition using Copula Joint Statistical Model and Sparse Representation Based Classification**", IEEE Geoscience and Remote Sensing Symposium (IGARSS’2018), Valencia-Spain, 23-27 July 2018
 [BibTex / URL / PDF]  
 
-2. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Target Recognition in ISAR Images based on Relative Phases of Complex Wavelet Coefficients and Sparse Classification**", 4th IEEE International Conference on Advanced Technologies for Signal and Image Processing (ATSIP’2018), Sousse-Tunisia, 21-24 March 2018
+3. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Target Recognition in ISAR Images based on Relative Phases of Complex Wavelet Coefficients and Sparse Classification**", 4th IEEE International Conference on Advanced Technologies for Signal and Image Processing (ATSIP’2018), Sousse-Tunisia, 21-24 March 2018
 [BibTex / URL / PDF]  
 
-3. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Saliency Attention and SIFT Keypoints Combination for Automatic Target Recognition on MSTAR dataset**", 3th IEEE International Conference on Advanced Technologies for Signal and Image Processing (ATSIP’2017), Fez-Maroc, 22-24 May 2017
+4. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Saliency Attention and SIFT Keypoints Combination for Automatic Target Recognition on MSTAR dataset**", 3th IEEE International Conference on Advanced Technologies for Signal and Image Processing (ATSIP’2017), Fez-Maroc, 22-24 May 2017
 [BibTex / URL / PDF]  
 
-4. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**A non-Gaussian statistical modeling of SIFT and DT-CWT for radar target recognition**", 13th IEEE International Conference on Computer Systems and Applications (AICCSA), Agadir-Maroc, 29 November - 02 December 2016 
+5. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**A non-Gaussian statistical modeling of SIFT and DT-CWT for radar target recognition**", 13th IEEE International Conference on Computer Systems and Applications (AICCSA), Agadir-Maroc, 29 November - 02 December 2016 
 [BibTex / URL / PDF]  
 
-5. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Aircraft recognition using a statistical model and sparse representation 
+6. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Aircraft recognition using a statistical model and sparse representation 
 First ACM International Conference on Big Data and Advanced Wireless technologies (BDAW)**", Bulgarie, 10-11 November 2016
 [BibTex / URL / PDF]  
 
-6. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Visual salient SIFT keypoints descriptors for automatic target recognition**", 
+7. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Visual salient SIFT keypoints descriptors for automatic target recognition**", 
 6th IEEE European Workshop on Visual Information Processing (EUVIP), Marseille-France, 25-27 October 2016. 
 [BibTex / URL / PDF]  
 
-7. **A. Karine**, N-E. Lasmar, A. Baussard, M. El Hassouni, "**Sonar image segmentation based on statistical modeling of wavelet subbands**", 12th IEEE International Conference on Computer Systems and Applications (AICCSA), Marrakech,-Maroc, 17-20 November 2015
+8. **A. Karine**, N-E. Lasmar, A. Baussard, M. El Hassouni, "**Sonar image segmentation based on statistical modeling of wavelet subbands**", 12th IEEE International Conference on Computer Systems and Applications (AICCSA), Marrakech,-Maroc, 17-20 November 2015
 [BibTex / URL / PDF]  
 
 ### National Conferences
@@ -76,7 +78,7 @@ First ACM International Conference on Big Data and Advanced Wireless technologie
 ## Services 
 ### Reviewer ([Publons Profile](https://publons.com/researcher/1627569/ayoub-karine/))
 * **Journals:**  Taylor and Francis International Journal of Remote Sensing, IEEE Access, IEEE Transactions on Geoscience and Remote Sensing, IEEE Geoscience and Remote Sensing Letters, MDPI Remote Sensing, Taylor and Francis European Journal of Remote Sensing, ELSEVIER Computers and Electrical Engineering
-* **Conferences:** WINCOM 2019, DSSGA/MEDI 2019, IndabaX 2019, ORASIS 2019, ISIVC 2018, ATSIP 2017, AICCSA 2017, IPTA 2017, AICCSA 2016, SETIT 2016
+* **Conferences:** ICIP 2021, WINCOM 2019, DSSGA/MEDI 2019, IndabaX 2019, ORASIS 2019, ISIVC 2018, ATSIP 2017, AICCSA 2017, IPTA 2017, AICCSA 2016, SETIT 2016
 
 ### Program Committee Member
 WINCOM 2019, DSSGA/MEDI 2019, IndabaX 2019, ORASIS 2019
@@ -97,6 +99,8 @@ ORASIS 2019, ATSIP 2017, SIGMA 2016, IWAISE 2016, URAC 2015
 
 | Firstname & Lastname | Started | Duration | Subject |
 |----------------|------|---------|---------|
+| Salima Bourbia | 12/2020 | 3 years | Quality assessment of 3D point cloud |
+| Kacem Ichakdi | 11/2020 | 3 years | 3D point cloud segmentation using deep learning |
 | Simohamed Hdafa | 12/2019 | 3 years | Image captionning using deep learning |
 
 ### Master Students
