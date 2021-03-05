@@ -9,8 +9,8 @@ redirect_from:
 
 Professionnal experience
 ======
-* [Since 09/2019] : Associate Professer
-  * [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
+* [Since 09/2019] : Associate Professor
+  * [ISEN Yncréa Ouest/Nantes Campus](https://isen-nantes.fr/)
 * [01/09/2018 - 31/08/2019] : ATER (Teaching and Research Assistant)
   * MMI department, [IUT de Mulhouse](http://www.iutmulhouse.uha.fr/), [Haute-Alsace University](https://www.uha.fr/), France
 * [13/03/2014 - 24/07/2014] : Master Internship
