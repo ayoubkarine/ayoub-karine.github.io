@@ -38,7 +38,7 @@ Master Thesis, ENSTA Bretagne, Brest, France, 18 September 2014
 [BibTex / URL / PDF]  
 
 ### International Conferences
-1. A. Karine, T. Napoléon, J. -Y. Mulot and Y. Auffret, "Video Seals Recognition using Transfer Learning of Convolutional Neural Network," 2020 Tenth International Conference on Image Processing Theory, Tools and Applications (IPTA), Paris, France, 2020
+1. **A. Karine**, T. Napoléon, J. -Y. Mulot and Y. Auffret, "**Video Seals Recognition using Transfer Learning of Convolutional Neural Network**" 2020 Tenth International Conference on Image Processing Theory, Tools and Applications (IPTA), Paris, France, 2020
 [BibTex / URL / PDF]
 
 2. **A. Karine**, A. Toumi, A. Khenchaf, M. EL Hassouni, "**Aircraft Target Recognition using Copula Joint Statistical Model and Sparse Representation Based Classification**", IEEE Geoscience and Remote Sensing Symposium (IGARSS’2018), Valencia-Spain, 23-27 July 2018
