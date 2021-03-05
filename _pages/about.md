@@ -12,7 +12,7 @@ I received the master’s degree in computer science and telecommunications in 2
 
 News
 ======
-* [**December 2020**] Salima Bourbia starts a PhD thesis, working on quality assessment of 3D point loud. She is co-supervised with Aladine Chetouani (Orléans University, France) and Mohammed EL Hassouni (Mohammed V University, Morocco).
+* [**December 2020**] Salima Bourbia starts a PhD thesis, working on quality assessment of 3D point cloud. She is co-supervised with Aladine Chetouani (Orléans University, France) and Mohammed EL Hassouni (Mohammed V University, Morocco).
 * [**November 2020**] Kacem Ichakdi starts a PhD thesis, working on 3D point cloud segmentation using deep learning. He is co-supervised with Maher Jridi & Thibault Napoléon (ISEN Yncréa Ouest/Nantes campus, France) and Mohammed EL Hassouni (Mohammed V University, Morocco).
 * [**August 2020**] New paper accepted at [IPTA2020](http://www.ipta-conference.com/ipta20/index.php) 
 * [**May 2020**] [Phd position on 3D point cloud segmentation](../files/SujetCotutelle_ISENYncreaOuest.pdf) 
