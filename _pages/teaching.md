@@ -8,7 +8,7 @@ Teaching
 ======
 * [Since Sept 2019]
   * [Yncréa Ouest/ISEN Nantes](https://isen-nantes.fr/)
-  * C++ & Python & Web (HTML, CSS, PHP, Javascript, ...)
+  * Full-stack web developement & Artificial Intelligence (Machine Learning and Deep Learning)
 * [2014-2017] 
   * MMI department, [IUT de Mulhouse](http://www.iutmulhouse.uha.fr/), [Haute-Alsace University](https://www.uha.fr/), France
   * Web (HTML, CSS, PHP, Javascript, Angular, ...) & Mathematics & XML & Algorithmic
@@ -16,7 +16,3 @@ Teaching
   * [Faculty of science](http://www.fsr.ac.ma/), [Mohammed V University (Morocco)](www.um5.ac.ma/)
   * Operating Systems & Information System & Security Network
 
-Other activities 
-======
-* Presentation of MMI department in JC (Journée des carrières) and JPO (Journée des portes ouvertes)
-* Member of the interview jury for admission to differents formations
